@@ -10,4 +10,4 @@
 
 
 
-![stock_graph_bokeh](https://stock_graph_bokeh.png "stock_graph_bokeh")
+![stock_graph_bokeh](https://github.com/whitecat-22/stock_graph_bokeh/blob/main/stock_grach_bokeh.png "stock_graph_bokeh")
